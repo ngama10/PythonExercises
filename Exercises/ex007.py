@@ -1,0 +1,5 @@
+b = input ("Type something")
+print("The class of what you type is", type (b) )
+print("Is it upper?", b.isupper())
+print ("Is it slower?", b.islower())
+print ("Is it capitalized?", b.istitle())
